@@ -1,0 +1,33 @@
+<main class="main">
+  <br />
+  <h2>YCombinator Web Crawler</h2>
+  <div class="table-container">
+    <table>
+      <tr>
+        <th mat-header-cell>Rank</th>
+        <th mat-header-cell>Tittle</th>
+        <th mat-header-cell>Comments</th>
+        <th mat-header-cell>Points</th>
+      </tr>
+      <tr *ngFor="let element of entries">
+        <td mat-row>{{element.rank}}</td>
+        <td mat-row>{{element.title}}</td>
+        <td mat-row>{{element.comments}}</td>
+        <td mat-row>{{element.points}}</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="fliters-container">
+    <div class="filters">
+      <button mat-raised-button (click)="filterPoints()">points</button>
+      <button mat-raised-button (click)="filterComments()">comments</button>
+      <button mat-raised-button (click)="getEntries('ALL', currentDirection)">all</button>
+      <button mat-raised-button (click)="toggleSortDirection()"><mat-icon>{{ currentDirection === 'asc' ? 'arrow_downward' : 'arrow_upward' }}</mat-icon>Order</button>
+    </div>
+  </div>
+  
+</main>
+
+
+<router-outlet></router-outlet>

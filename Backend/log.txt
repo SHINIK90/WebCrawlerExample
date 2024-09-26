@@ -1,0 +1,940 @@
+[2024-09-26 19:04:24] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:04:24] logger.php:23--->> option: ALL
+[2024-09-26 19:04:24] logger.php:23--->> word_limit: 5
+[2024-09-26 19:04:24] logger.php:23--->> direction: desc
+[2024-09-26 19:04:26] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:04:27] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:07:41] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:07:41] logger.php:23--->> option: ALL
+[2024-09-26 19:07:41] logger.php:23--->> word_limit: 5
+[2024-09-26 19:07:41] logger.php:23--->> direction: desc
+[2024-09-26 19:07:42] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:08:00] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:08:00] logger.php:23--->> option: 
+[2024-09-26 19:08:00] logger.php:23--->> word_limit: 
+[2024-09-26 19:08:00] logger.php:23--->> direction: 
+[2024-09-26 19:10:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:10:45] logger.php:23--->> option: ALL
+[2024-09-26 19:10:45] logger.php:23--->> word_limit: 5
+[2024-09-26 19:10:45] logger.php:23--->> direction: desc
+[2024-09-26 19:10:46] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:12:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:12:50] logger.php:23--->> option: ALL
+[2024-09-26 19:12:50] logger.php:23--->> word_limit: 5
+[2024-09-26 19:12:50] logger.php:23--->> direction: desc
+[2024-09-26 19:12:50] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:12:55] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:12:55] logger.php:23--->> option: ALL
+[2024-09-26 19:12:55] logger.php:23--->> word_limit: 5
+[2024-09-26 19:12:55] logger.php:23--->> direction: desc
+[2024-09-26 19:12:56] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:13:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:13:45] logger.php:23--->> option: ALL
+[2024-09-26 19:13:45] logger.php:23--->> word_limit: 5
+[2024-09-26 19:13:45] logger.php:23--->> direction: desc
+[2024-09-26 19:13:46] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:13:47] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:13:47] logger.php:23--->> option: ALL
+[2024-09-26 19:13:47] logger.php:23--->> word_limit: 5
+[2024-09-26 19:13:47] logger.php:23--->> direction: desc
+[2024-09-26 19:13:48] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:21:48] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:21:48] logger.php:23--->> option: ALL
+[2024-09-26 19:21:48] logger.php:23--->> word_limit: 5
+[2024-09-26 19:21:48] logger.php:23--->> direction: desc
+[2024-09-26 19:21:48] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:22:07] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:22:07] logger.php:23--->> option: ALL
+[2024-09-26 19:22:07] logger.php:23--->> word_limit: 5
+[2024-09-26 19:22:07] logger.php:23--->> direction: desc
+[2024-09-26 19:22:08] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:23:25] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:23:25] logger.php:23--->> option: ALL
+[2024-09-26 19:23:25] logger.php:23--->> word_limit: 5
+[2024-09-26 19:23:25] logger.php:23--->> direction: desc
+[2024-09-26 19:23:25] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:23:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:23:34] logger.php:23--->> option: ALL
+[2024-09-26 19:23:34] logger.php:23--->> word_limit: 5
+[2024-09-26 19:23:34] logger.php:23--->> direction: desc
+[2024-09-26 19:23:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:25:06] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:25:06] logger.php:23--->> option: ALL
+[2024-09-26 19:25:06] logger.php:23--->> word_limit: 5
+[2024-09-26 19:25:06] logger.php:23--->> direction: desc
+[2024-09-26 19:25:07] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:29:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:29:45] logger.php:23--->> option: ALL
+[2024-09-26 19:29:45] logger.php:23--->> word_limit: 5
+[2024-09-26 19:29:45] logger.php:23--->> direction: desc
+[2024-09-26 19:29:46] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:30:29] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:30:29] logger.php:23--->> option: ALL
+[2024-09-26 19:30:29] logger.php:23--->> word_limit: 5
+[2024-09-26 19:30:29] logger.php:23--->> direction: desc
+[2024-09-26 19:30:30] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:32:02] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:32:02] logger.php:23--->> option: ALL
+[2024-09-26 19:32:02] logger.php:23--->> word_limit: 5
+[2024-09-26 19:32:02] logger.php:23--->> direction: desc
+[2024-09-26 19:32:03] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:32:04] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:32:04] logger.php:23--->> option: ALL
+[2024-09-26 19:32:04] logger.php:23--->> word_limit: 5
+[2024-09-26 19:32:04] logger.php:23--->> direction: desc
+[2024-09-26 19:32:04] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:32:51] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:32:51] logger.php:23--->> option: ALL
+[2024-09-26 19:32:51] logger.php:23--->> word_limit: 5
+[2024-09-26 19:32:51] logger.php:23--->> direction: desc
+[2024-09-26 19:32:52] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:32:55] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:32:55] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 19:32:55] logger.php:23--->> word_limit: 5
+[2024-09-26 19:32:55] logger.php:23--->> direction: desc
+[2024-09-26 19:32:56] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:33:24] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:33:24] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 19:33:24] logger.php:23--->> word_limit: 5
+[2024-09-26 19:33:24] logger.php:23--->> direction: desc
+[2024-09-26 19:33:24] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:47:35] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:47:35] logger.php:23--->> option: ALL
+[2024-09-26 19:47:35] logger.php:23--->> word_limit: 5
+[2024-09-26 19:47:35] logger.php:23--->> direction: desc
+[2024-09-26 19:47:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:48:21] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:48:21] logger.php:23--->> option: ALL
+[2024-09-26 19:48:21] logger.php:23--->> word_limit: 5
+[2024-09-26 19:48:21] logger.php:23--->> direction: desc
+[2024-09-26 19:48:21] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:48:25] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:48:25] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 19:48:25] logger.php:23--->> word_limit: 5
+[2024-09-26 19:48:25] logger.php:23--->> direction: desc
+[2024-09-26 19:48:26] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:48:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:48:56] logger.php:23--->> option: ALL
+[2024-09-26 19:48:56] logger.php:23--->> word_limit: 5
+[2024-09-26 19:48:56] logger.php:23--->> direction: desc
+[2024-09-26 19:48:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:49:01] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:49:01] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 19:49:01] logger.php:23--->> word_limit: 5
+[2024-09-26 19:49:01] logger.php:23--->> direction: desc
+[2024-09-26 19:49:02] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:49:39] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:49:39] logger.php:23--->> option: ALL
+[2024-09-26 19:49:39] logger.php:23--->> word_limit: 5
+[2024-09-26 19:49:39] logger.php:23--->> direction: desc
+[2024-09-26 19:49:40] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:49:40] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:49:40] logger.php:23--->> option: ALL
+[2024-09-26 19:49:40] logger.php:23--->> word_limit: 5
+[2024-09-26 19:49:40] logger.php:23--->> direction: desc
+[2024-09-26 19:49:41] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:54:02] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:54:02] logger.php:23--->> option: ALL
+[2024-09-26 19:54:02] logger.php:23--->> word_limit: 5
+[2024-09-26 19:54:02] logger.php:23--->> direction: desc
+[2024-09-26 19:54:02] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 19:54:41] endpoint.php:12--->> GET REQUEST
+[2024-09-26 19:54:41] logger.php:23--->> option: ALL
+[2024-09-26 19:54:41] logger.php:23--->> word_limit: 5
+[2024-09-26 19:54:41] logger.php:23--->> direction: desc
+[2024-09-26 19:54:41] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:05:00] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:05:00] logger.php:23--->> option: ALL
+[2024-09-26 20:05:00] logger.php:23--->> word_limit: 5
+[2024-09-26 20:05:00] logger.php:23--->> direction: desc
+[2024-09-26 20:05:01] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:05:40] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:05:40] logger.php:23--->> option: ALL
+[2024-09-26 20:05:40] logger.php:23--->> word_limit: 5
+[2024-09-26 20:05:40] logger.php:23--->> direction: desc
+[2024-09-26 20:05:40] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:06:39] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:06:39] logger.php:23--->> option: ALL
+[2024-09-26 20:06:39] logger.php:23--->> word_limit: 5
+[2024-09-26 20:06:39] logger.php:23--->> direction: desc
+[2024-09-26 20:06:40] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:07:07] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:07:07] logger.php:23--->> option: ALL
+[2024-09-26 20:07:07] logger.php:23--->> word_limit: 5
+[2024-09-26 20:07:07] logger.php:23--->> direction: desc
+[2024-09-26 20:07:08] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:19:23] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:19:23] logger.php:23--->> option: ALL
+[2024-09-26 20:19:23] logger.php:23--->> word_limit: 5
+[2024-09-26 20:19:23] logger.php:23--->> direction: desc
+[2024-09-26 20:19:23] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:19:27] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:19:27] logger.php:23--->> option: ALL
+[2024-09-26 20:19:27] logger.php:23--->> word_limit: 5
+[2024-09-26 20:19:27] logger.php:23--->> direction: desc
+[2024-09-26 20:19:27] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:19:33] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:19:33] logger.php:23--->> option: ALL
+[2024-09-26 20:19:33] logger.php:23--->> word_limit: 5
+[2024-09-26 20:19:33] logger.php:23--->> direction: desc
+[2024-09-26 20:19:33] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:20:03] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:20:03] logger.php:23--->> option: ALL
+[2024-09-26 20:20:03] logger.php:23--->> word_limit: 5
+[2024-09-26 20:20:03] logger.php:23--->> direction: desc
+[2024-09-26 20:20:04] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:22:33] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:22:33] logger.php:23--->> option: ALL
+[2024-09-26 20:22:33] logger.php:23--->> word_limit: 5
+[2024-09-26 20:22:33] logger.php:23--->> direction: desc
+[2024-09-26 20:22:34] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:23:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:23:45] logger.php:23--->> option: ALL
+[2024-09-26 20:23:45] logger.php:23--->> word_limit: 5
+[2024-09-26 20:23:45] logger.php:23--->> direction: desc
+[2024-09-26 20:23:45] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:24:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:24:45] logger.php:23--->> option: ALL
+[2024-09-26 20:24:45] logger.php:23--->> word_limit: 5
+[2024-09-26 20:24:45] logger.php:23--->> direction: desc
+[2024-09-26 20:24:46] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:24:48] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:24:48] logger.php:23--->> option: ALL
+[2024-09-26 20:24:48] logger.php:23--->> word_limit: 5
+[2024-09-26 20:24:48] logger.php:23--->> direction: desc
+[2024-09-26 20:24:49] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:25:02] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:25:02] logger.php:23--->> option: ALL
+[2024-09-26 20:25:02] logger.php:23--->> word_limit: 5
+[2024-09-26 20:25:02] logger.php:23--->> direction: desc
+[2024-09-26 20:25:03] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:50:15] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:50:15] logger.php:23--->> option: ALL
+[2024-09-26 20:50:15] logger.php:23--->> word_limit: 5
+[2024-09-26 20:50:15] logger.php:23--->> direction: desc
+[2024-09-26 20:50:27] crawler.php:15--->> Error:Could not resolve host: news.ycombinator.com
+[2024-09-26 20:56:27] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:56:27] logger.php:23--->> option: ALL
+[2024-09-26 20:56:27] logger.php:23--->> word_limit: 5
+[2024-09-26 20:56:27] logger.php:23--->> direction: desc
+[2024-09-26 20:56:28] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 20:57:16] endpoint.php:12--->> GET REQUEST
+[2024-09-26 20:57:16] logger.php:23--->> option: ALL
+[2024-09-26 20:57:16] logger.php:23--->> word_limit: 5
+[2024-09-26 20:57:16] logger.php:23--->> direction: desc
+[2024-09-26 20:57:17] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:01:36] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:01:36] logger.php:23--->> option: ALL
+[2024-09-26 21:01:36] logger.php:23--->> word_limit: 5
+[2024-09-26 21:01:36] logger.php:23--->> direction: desc
+[2024-09-26 21:01:37] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:02:04] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:02:04] logger.php:23--->> option: ALL
+[2024-09-26 21:02:04] logger.php:23--->> word_limit: 5
+[2024-09-26 21:02:04] logger.php:23--->> direction: desc
+[2024-09-26 21:02:05] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:02:10] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:02:10] logger.php:23--->> option: ALL
+[2024-09-26 21:02:10] logger.php:23--->> word_limit: 5
+[2024-09-26 21:02:10] logger.php:23--->> direction: desc
+[2024-09-26 21:02:11] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:02:16] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:02:16] logger.php:23--->> option: ALL
+[2024-09-26 21:02:16] logger.php:23--->> word_limit: 5
+[2024-09-26 21:02:16] logger.php:23--->> direction: desc
+[2024-09-26 21:02:17] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:02:27] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:02:27] logger.php:23--->> option: ALL
+[2024-09-26 21:02:27] logger.php:23--->> word_limit: 5
+[2024-09-26 21:02:27] logger.php:23--->> direction: desc
+[2024-09-26 21:02:28] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:02:37] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:02:37] logger.php:23--->> option: ALL
+[2024-09-26 21:02:37] logger.php:23--->> word_limit: 5
+[2024-09-26 21:02:37] logger.php:23--->> direction: desc
+[2024-09-26 21:02:38] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:03:04] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:03:04] logger.php:23--->> option: ALL
+[2024-09-26 21:03:04] logger.php:23--->> word_limit: 5
+[2024-09-26 21:03:04] logger.php:23--->> direction: desc
+[2024-09-26 21:03:06] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:03:25] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:03:25] logger.php:23--->> option: ALL
+[2024-09-26 21:03:25] logger.php:23--->> word_limit: 5
+[2024-09-26 21:03:25] logger.php:23--->> direction: desc
+[2024-09-26 21:03:27] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:03:31] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:03:31] logger.php:23--->> option: ALL
+[2024-09-26 21:03:31] logger.php:23--->> word_limit: 5
+[2024-09-26 21:03:31] logger.php:23--->> direction: asc
+[2024-09-26 21:03:32] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:03:41] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:03:41] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 21:03:41] logger.php:23--->> word_limit: 5
+[2024-09-26 21:03:41] logger.php:23--->> direction: asc
+[2024-09-26 21:03:42] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:04:05] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:04:05] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 21:04:05] logger.php:23--->> word_limit: 5
+[2024-09-26 21:04:05] logger.php:23--->> direction: desc
+[2024-09-26 21:04:05] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:04:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:04:34] logger.php:23--->> option: ALL
+[2024-09-26 21:04:34] logger.php:23--->> word_limit: 5
+[2024-09-26 21:04:34] logger.php:23--->> direction: desc
+[2024-09-26 21:04:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:04:38] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:04:38] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 21:04:38] logger.php:23--->> word_limit: 5
+[2024-09-26 21:04:38] logger.php:23--->> direction: desc
+[2024-09-26 21:04:39] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:05:09] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:05:09] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 21:05:09] logger.php:23--->> word_limit: 5
+[2024-09-26 21:05:09] logger.php:23--->> direction: asc
+[2024-09-26 21:05:10] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:05:14] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:05:14] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 21:05:14] logger.php:23--->> word_limit: 5
+[2024-09-26 21:05:14] logger.php:23--->> direction: desc
+[2024-09-26 21:05:14] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:05:46] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:05:47] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 21:05:47] logger.php:23--->> word_limit: 5
+[2024-09-26 21:05:47] logger.php:23--->> direction: desc
+[2024-09-26 21:05:47] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:05:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:05:50] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 21:05:50] logger.php:23--->> word_limit: 5
+[2024-09-26 21:05:50] logger.php:23--->> direction: desc
+[2024-09-26 21:05:50] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:05:55] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:05:55] logger.php:23--->> option: ALL
+[2024-09-26 21:05:55] logger.php:23--->> word_limit: 5
+[2024-09-26 21:05:55] logger.php:23--->> direction: desc
+[2024-09-26 21:05:56] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:16:44] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:16:44] logger.php:23--->> option: ALL
+[2024-09-26 21:16:44] logger.php:23--->> word_limit: 5
+[2024-09-26 21:16:44] logger.php:23--->> direction: desc
+[2024-09-26 21:16:44] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:17:41] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:17:41] logger.php:23--->> option: ALL
+[2024-09-26 21:17:41] logger.php:23--->> word_limit: 5
+[2024-09-26 21:17:41] logger.php:23--->> direction: desc
+[2024-09-26 21:17:42] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:19:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:19:34] logger.php:23--->> option: ALL
+[2024-09-26 21:19:34] logger.php:23--->> word_limit: 5
+[2024-09-26 21:19:34] logger.php:23--->> direction: desc
+[2024-09-26 21:19:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:19:59] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:19:59] logger.php:23--->> option: ALL
+[2024-09-26 21:19:59] logger.php:23--->> word_limit: 5
+[2024-09-26 21:19:59] logger.php:23--->> direction: desc
+[2024-09-26 21:19:59] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:20:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:20:56] logger.php:23--->> option: ALL
+[2024-09-26 21:20:56] logger.php:23--->> word_limit: 5
+[2024-09-26 21:20:56] logger.php:23--->> direction: desc
+[2024-09-26 21:20:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:21:39] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:21:39] logger.php:23--->> option: ALL
+[2024-09-26 21:21:39] logger.php:23--->> word_limit: 5
+[2024-09-26 21:21:39] logger.php:23--->> direction: desc
+[2024-09-26 21:21:39] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:21:42] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:21:42] logger.php:23--->> option: ALL
+[2024-09-26 21:21:42] logger.php:23--->> word_limit: 5
+[2024-09-26 21:21:42] logger.php:23--->> direction: desc
+[2024-09-26 21:21:43] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:21:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:21:50] logger.php:23--->> option: ALL
+[2024-09-26 21:21:50] logger.php:23--->> word_limit: 5
+[2024-09-26 21:21:50] logger.php:23--->> direction: desc
+[2024-09-26 21:21:51] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:21:59] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:21:59] logger.php:23--->> option: ALL
+[2024-09-26 21:21:59] logger.php:23--->> word_limit: 5
+[2024-09-26 21:21:59] logger.php:23--->> direction: desc
+[2024-09-26 21:22:00] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:22:37] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:22:37] logger.php:23--->> option: ALL
+[2024-09-26 21:22:37] logger.php:23--->> word_limit: 5
+[2024-09-26 21:22:37] logger.php:23--->> direction: desc
+[2024-09-26 21:22:38] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:23:01] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:23:01] logger.php:23--->> option: ALL
+[2024-09-26 21:23:01] logger.php:23--->> word_limit: 5
+[2024-09-26 21:23:01] logger.php:23--->> direction: desc
+[2024-09-26 21:23:02] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:23:20] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:23:20] logger.php:23--->> option: ALL
+[2024-09-26 21:23:20] logger.php:23--->> word_limit: 5
+[2024-09-26 21:23:20] logger.php:23--->> direction: desc
+[2024-09-26 21:23:21] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:23:51] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:23:51] logger.php:23--->> option: ALL
+[2024-09-26 21:23:51] logger.php:23--->> word_limit: 5
+[2024-09-26 21:23:51] logger.php:23--->> direction: desc
+[2024-09-26 21:23:52] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:24:04] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:24:04] logger.php:23--->> option: ALL
+[2024-09-26 21:24:04] logger.php:23--->> word_limit: 5
+[2024-09-26 21:24:04] logger.php:23--->> direction: desc
+[2024-09-26 21:24:05] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:24:17] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:24:17] logger.php:23--->> option: ALL
+[2024-09-26 21:24:17] logger.php:23--->> word_limit: 5
+[2024-09-26 21:24:17] logger.php:23--->> direction: desc
+[2024-09-26 21:24:17] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:24:43] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:24:43] logger.php:23--->> option: ALL
+[2024-09-26 21:24:43] logger.php:23--->> word_limit: 5
+[2024-09-26 21:24:43] logger.php:23--->> direction: desc
+[2024-09-26 21:24:44] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:25:06] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:25:06] logger.php:23--->> option: ALL
+[2024-09-26 21:25:06] logger.php:23--->> word_limit: 5
+[2024-09-26 21:25:06] logger.php:23--->> direction: desc
+[2024-09-26 21:25:06] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:25:12] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:25:12] logger.php:23--->> option: ALL
+[2024-09-26 21:25:12] logger.php:23--->> word_limit: 5
+[2024-09-26 21:25:12] logger.php:23--->> direction: desc
+[2024-09-26 21:25:13] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:25:53] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:25:53] logger.php:23--->> option: ALL
+[2024-09-26 21:25:53] logger.php:23--->> word_limit: 5
+[2024-09-26 21:25:53] logger.php:23--->> direction: desc
+[2024-09-26 21:25:54] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:26:15] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:26:15] logger.php:23--->> option: ALL
+[2024-09-26 21:26:15] logger.php:23--->> word_limit: 5
+[2024-09-26 21:26:15] logger.php:23--->> direction: desc
+[2024-09-26 21:26:15] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:26:42] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:26:42] logger.php:23--->> option: ALL
+[2024-09-26 21:26:42] logger.php:23--->> word_limit: 5
+[2024-09-26 21:26:42] logger.php:23--->> direction: desc
+[2024-09-26 21:26:42] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:27:13] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:27:13] logger.php:23--->> option: ALL
+[2024-09-26 21:27:13] logger.php:23--->> word_limit: 5
+[2024-09-26 21:27:13] logger.php:23--->> direction: desc
+[2024-09-26 21:27:14] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:28:02] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:28:02] logger.php:23--->> option: ALL
+[2024-09-26 21:28:02] logger.php:23--->> word_limit: 5
+[2024-09-26 21:28:02] logger.php:23--->> direction: desc
+[2024-09-26 21:28:03] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:28:33] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:28:33] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 21:28:33] logger.php:23--->> word_limit: 5
+[2024-09-26 21:28:33] logger.php:23--->> direction: desc
+[2024-09-26 21:28:34] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:28:40] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:28:40] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 21:28:40] logger.php:23--->> word_limit: 5
+[2024-09-26 21:28:40] logger.php:23--->> direction: asc
+[2024-09-26 21:28:40] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:29:44] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:29:44] logger.php:23--->> option: ALL
+[2024-09-26 21:29:44] logger.php:23--->> word_limit: 5
+[2024-09-26 21:29:44] logger.php:23--->> direction: desc
+[2024-09-26 21:29:45] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:30:03] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:30:03] logger.php:23--->> option: ALL
+[2024-09-26 21:30:03] logger.php:23--->> word_limit: 5
+[2024-09-26 21:30:03] logger.php:23--->> direction: desc
+[2024-09-26 21:30:04] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:30:23] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:30:23] logger.php:23--->> option: ALL
+[2024-09-26 21:30:23] logger.php:23--->> word_limit: 5
+[2024-09-26 21:30:23] logger.php:23--->> direction: desc
+[2024-09-26 21:30:24] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:31:12] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:31:12] logger.php:23--->> option: ALL
+[2024-09-26 21:31:12] logger.php:23--->> word_limit: 5
+[2024-09-26 21:31:12] logger.php:23--->> direction: desc
+[2024-09-26 21:31:13] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:31:32] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:31:32] logger.php:23--->> option: ALL
+[2024-09-26 21:31:32] logger.php:23--->> word_limit: 5
+[2024-09-26 21:31:32] logger.php:23--->> direction: desc
+[2024-09-26 21:31:32] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:32:00] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:32:00] logger.php:23--->> option: ALL
+[2024-09-26 21:32:00] logger.php:23--->> word_limit: 5
+[2024-09-26 21:32:00] logger.php:23--->> direction: desc
+[2024-09-26 21:32:01] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:32:17] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:32:17] logger.php:23--->> option: ALL
+[2024-09-26 21:32:17] logger.php:23--->> word_limit: 5
+[2024-09-26 21:32:17] logger.php:23--->> direction: desc
+[2024-09-26 21:32:17] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:32:30] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:32:30] logger.php:23--->> option: ALL
+[2024-09-26 21:32:30] logger.php:23--->> word_limit: 5
+[2024-09-26 21:32:30] logger.php:23--->> direction: desc
+[2024-09-26 21:32:31] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:33:24] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:33:24] logger.php:23--->> option: ALL
+[2024-09-26 21:33:24] logger.php:23--->> word_limit: 5
+[2024-09-26 21:33:24] logger.php:23--->> direction: desc
+[2024-09-26 21:33:25] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:33:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:33:45] logger.php:23--->> option: ALL
+[2024-09-26 21:33:45] logger.php:23--->> word_limit: 5
+[2024-09-26 21:33:45] logger.php:23--->> direction: desc
+[2024-09-26 21:33:46] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:35:16] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:35:16] logger.php:23--->> option: ALL
+[2024-09-26 21:35:16] logger.php:23--->> word_limit: 5
+[2024-09-26 21:35:16] logger.php:23--->> direction: desc
+[2024-09-26 21:35:17] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:35:33] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:35:33] logger.php:23--->> option: ALL
+[2024-09-26 21:35:33] logger.php:23--->> word_limit: 5
+[2024-09-26 21:35:33] logger.php:23--->> direction: desc
+[2024-09-26 21:35:34] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:35:51] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:35:51] logger.php:23--->> option: ALL
+[2024-09-26 21:35:51] logger.php:23--->> word_limit: 5
+[2024-09-26 21:35:51] logger.php:23--->> direction: desc
+[2024-09-26 21:35:52] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:35:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:35:56] logger.php:23--->> option: ALL
+[2024-09-26 21:35:56] logger.php:23--->> word_limit: 5
+[2024-09-26 21:35:56] logger.php:23--->> direction: desc
+[2024-09-26 21:35:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:36:12] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:36:12] logger.php:23--->> option: ALL
+[2024-09-26 21:36:12] logger.php:23--->> word_limit: 5
+[2024-09-26 21:36:12] logger.php:23--->> direction: desc
+[2024-09-26 21:36:13] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:36:45] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:36:45] logger.php:23--->> option: ALL
+[2024-09-26 21:36:45] logger.php:23--->> word_limit: 5
+[2024-09-26 21:36:45] logger.php:23--->> direction: desc
+[2024-09-26 21:36:45] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:38:42] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:38:42] logger.php:23--->> option: ALL
+[2024-09-26 21:38:42] logger.php:23--->> word_limit: 5
+[2024-09-26 21:38:42] logger.php:23--->> direction: desc
+[2024-09-26 21:38:42] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:39:18] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:39:18] logger.php:23--->> option: ALL
+[2024-09-26 21:39:18] logger.php:23--->> word_limit: 5
+[2024-09-26 21:39:18] logger.php:23--->> direction: desc
+[2024-09-26 21:39:18] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:39:27] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:39:27] logger.php:23--->> option: ALL
+[2024-09-26 21:39:27] logger.php:23--->> word_limit: 5
+[2024-09-26 21:39:27] logger.php:23--->> direction: desc
+[2024-09-26 21:39:28] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:40:20] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:40:20] logger.php:23--->> option: ALL
+[2024-09-26 21:40:20] logger.php:23--->> word_limit: 5
+[2024-09-26 21:40:20] logger.php:23--->> direction: desc
+[2024-09-26 21:40:20] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:40:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:40:50] logger.php:23--->> option: ALL
+[2024-09-26 21:40:50] logger.php:23--->> word_limit: 5
+[2024-09-26 21:40:50] logger.php:23--->> direction: desc
+[2024-09-26 21:40:50] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:41:30] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:41:30] logger.php:23--->> option: ALL
+[2024-09-26 21:41:30] logger.php:23--->> word_limit: 5
+[2024-09-26 21:41:30] logger.php:23--->> direction: desc
+[2024-09-26 21:41:31] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:41:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:41:50] logger.php:23--->> option: ALL
+[2024-09-26 21:41:50] logger.php:23--->> word_limit: 5
+[2024-09-26 21:41:50] logger.php:23--->> direction: desc
+[2024-09-26 21:41:51] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:42:29] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:42:29] logger.php:23--->> option: ALL
+[2024-09-26 21:42:29] logger.php:23--->> word_limit: 5
+[2024-09-26 21:42:29] logger.php:23--->> direction: desc
+[2024-09-26 21:42:30] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:43:17] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:43:17] logger.php:23--->> option: ALL
+[2024-09-26 21:43:17] logger.php:23--->> word_limit: 5
+[2024-09-26 21:43:17] logger.php:23--->> direction: desc
+[2024-09-26 21:43:18] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:43:30] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:43:30] logger.php:23--->> option: ALL
+[2024-09-26 21:43:30] logger.php:23--->> word_limit: 5
+[2024-09-26 21:43:30] logger.php:23--->> direction: desc
+[2024-09-26 21:43:31] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:43:49] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:43:49] logger.php:23--->> option: ALL
+[2024-09-26 21:43:49] logger.php:23--->> word_limit: 5
+[2024-09-26 21:43:49] logger.php:23--->> direction: desc
+[2024-09-26 21:43:49] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:44:07] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:44:07] logger.php:23--->> option: ALL
+[2024-09-26 21:44:07] logger.php:23--->> word_limit: 5
+[2024-09-26 21:44:07] logger.php:23--->> direction: desc
+[2024-09-26 21:44:08] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:44:26] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:44:26] logger.php:23--->> option: ALL
+[2024-09-26 21:44:26] logger.php:23--->> word_limit: 5
+[2024-09-26 21:44:26] logger.php:23--->> direction: desc
+[2024-09-26 21:44:26] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:44:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:44:34] logger.php:23--->> option: ALL
+[2024-09-26 21:44:34] logger.php:23--->> word_limit: 5
+[2024-09-26 21:44:34] logger.php:23--->> direction: desc
+[2024-09-26 21:44:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:45:23] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:45:23] logger.php:23--->> option: ALL
+[2024-09-26 21:45:23] logger.php:23--->> word_limit: 5
+[2024-09-26 21:45:23] logger.php:23--->> direction: desc
+[2024-09-26 21:45:24] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:45:31] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:45:31] logger.php:23--->> option: ALL
+[2024-09-26 21:45:31] logger.php:23--->> word_limit: 5
+[2024-09-26 21:45:31] logger.php:23--->> direction: desc
+[2024-09-26 21:45:32] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:46:04] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:46:04] logger.php:23--->> option: ALL
+[2024-09-26 21:46:04] logger.php:23--->> word_limit: 5
+[2024-09-26 21:46:04] logger.php:23--->> direction: desc
+[2024-09-26 21:46:05] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:46:28] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:46:28] logger.php:23--->> option: ALL
+[2024-09-26 21:46:28] logger.php:23--->> word_limit: 5
+[2024-09-26 21:46:28] logger.php:23--->> direction: desc
+[2024-09-26 21:46:30] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:46:51] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:46:51] logger.php:23--->> option: ALL
+[2024-09-26 21:46:51] logger.php:23--->> word_limit: 5
+[2024-09-26 21:46:51] logger.php:23--->> direction: desc
+[2024-09-26 21:46:52] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:46:55] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:46:55] logger.php:23--->> option: ALL
+[2024-09-26 21:46:55] logger.php:23--->> word_limit: 5
+[2024-09-26 21:46:55] logger.php:23--->> direction: desc
+[2024-09-26 21:46:56] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:47:26] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:47:26] logger.php:23--->> option: ALL
+[2024-09-26 21:47:26] logger.php:23--->> word_limit: 5
+[2024-09-26 21:47:26] logger.php:23--->> direction: desc
+[2024-09-26 21:47:27] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:47:42] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:47:42] logger.php:23--->> option: ALL
+[2024-09-26 21:47:42] logger.php:23--->> word_limit: 5
+[2024-09-26 21:47:42] logger.php:23--->> direction: desc
+[2024-09-26 21:47:42] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:47:46] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:47:46] logger.php:23--->> option: ALL
+[2024-09-26 21:47:46] logger.php:23--->> word_limit: 5
+[2024-09-26 21:47:46] logger.php:23--->> direction: desc
+[2024-09-26 21:47:47] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:48:08] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:48:08] logger.php:23--->> option: ALL
+[2024-09-26 21:48:08] logger.php:23--->> word_limit: 5
+[2024-09-26 21:48:08] logger.php:23--->> direction: desc
+[2024-09-26 21:48:09] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:48:15] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:48:15] logger.php:23--->> option: ALL
+[2024-09-26 21:48:15] logger.php:23--->> word_limit: 5
+[2024-09-26 21:48:15] logger.php:23--->> direction: desc
+[2024-09-26 21:48:16] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:48:31] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:48:31] logger.php:23--->> option: ALL
+[2024-09-26 21:48:31] logger.php:23--->> word_limit: 5
+[2024-09-26 21:48:31] logger.php:23--->> direction: desc
+[2024-09-26 21:48:32] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:48:37] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:48:37] logger.php:23--->> option: ALL
+[2024-09-26 21:48:37] logger.php:23--->> word_limit: 5
+[2024-09-26 21:48:37] logger.php:23--->> direction: desc
+[2024-09-26 21:48:38] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:50:03] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:50:03] logger.php:23--->> option: ALL
+[2024-09-26 21:50:03] logger.php:23--->> word_limit: 5
+[2024-09-26 21:50:03] logger.php:23--->> direction: desc
+[2024-09-26 21:50:04] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:51:31] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:51:31] logger.php:23--->> option: ALL
+[2024-09-26 21:51:31] logger.php:23--->> word_limit: 5
+[2024-09-26 21:51:31] logger.php:23--->> direction: desc
+[2024-09-26 21:51:31] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:51:39] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:51:39] logger.php:23--->> option: ALL
+[2024-09-26 21:51:39] logger.php:23--->> word_limit: 5
+[2024-09-26 21:51:39] logger.php:23--->> direction: desc
+[2024-09-26 21:51:40] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:51:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:51:56] logger.php:23--->> option: ALL
+[2024-09-26 21:51:56] logger.php:23--->> word_limit: 5
+[2024-09-26 21:51:56] logger.php:23--->> direction: desc
+[2024-09-26 21:51:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:52:59] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:52:59] logger.php:23--->> option: ALL
+[2024-09-26 21:52:59] logger.php:23--->> word_limit: 5
+[2024-09-26 21:52:59] logger.php:23--->> direction: desc
+[2024-09-26 21:53:00] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:53:16] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:53:16] logger.php:23--->> option: ALL
+[2024-09-26 21:53:16] logger.php:23--->> word_limit: 5
+[2024-09-26 21:53:16] logger.php:23--->> direction: desc
+[2024-09-26 21:53:18] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:53:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:53:34] logger.php:23--->> option: ALL
+[2024-09-26 21:53:34] logger.php:23--->> word_limit: 5
+[2024-09-26 21:53:34] logger.php:23--->> direction: desc
+[2024-09-26 21:53:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:53:58] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:53:58] logger.php:23--->> option: ALL
+[2024-09-26 21:53:58] logger.php:23--->> word_limit: 5
+[2024-09-26 21:53:58] logger.php:23--->> direction: desc
+[2024-09-26 21:53:59] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:54:32] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:54:32] logger.php:23--->> option: ALL
+[2024-09-26 21:54:32] logger.php:23--->> word_limit: 5
+[2024-09-26 21:54:32] logger.php:23--->> direction: desc
+[2024-09-26 21:54:33] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:54:52] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:54:52] logger.php:23--->> option: ALL
+[2024-09-26 21:54:52] logger.php:23--->> word_limit: 5
+[2024-09-26 21:54:52] logger.php:23--->> direction: desc
+[2024-09-26 21:54:53] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:55:29] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:55:29] logger.php:23--->> option: ALL
+[2024-09-26 21:55:29] logger.php:23--->> word_limit: 5
+[2024-09-26 21:55:29] logger.php:23--->> direction: desc
+[2024-09-26 21:55:29] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:55:32] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:55:32] logger.php:23--->> option: ALL
+[2024-09-26 21:55:32] logger.php:23--->> word_limit: 5
+[2024-09-26 21:55:32] logger.php:23--->> direction: desc
+[2024-09-26 21:55:33] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:56:52] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:56:52] logger.php:23--->> option: ALL
+[2024-09-26 21:56:52] logger.php:23--->> word_limit: 5
+[2024-09-26 21:56:52] logger.php:23--->> direction: desc
+[2024-09-26 21:56:53] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:57:13] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:57:13] logger.php:23--->> option: ALL
+[2024-09-26 21:57:13] logger.php:23--->> word_limit: 5
+[2024-09-26 21:57:13] logger.php:23--->> direction: desc
+[2024-09-26 21:57:14] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:57:27] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:57:27] logger.php:23--->> option: ALL
+[2024-09-26 21:57:27] logger.php:23--->> word_limit: 5
+[2024-09-26 21:57:27] logger.php:23--->> direction: desc
+[2024-09-26 21:57:28] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:57:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:57:34] logger.php:23--->> option: ALL
+[2024-09-26 21:57:34] logger.php:23--->> word_limit: 5
+[2024-09-26 21:57:34] logger.php:23--->> direction: desc
+[2024-09-26 21:57:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:58:07] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:58:07] logger.php:23--->> option: ALL
+[2024-09-26 21:58:07] logger.php:23--->> word_limit: 5
+[2024-09-26 21:58:07] logger.php:23--->> direction: desc
+[2024-09-26 21:58:08] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:58:22] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:58:22] logger.php:23--->> option: ALL
+[2024-09-26 21:58:22] logger.php:23--->> word_limit: 5
+[2024-09-26 21:58:22] logger.php:23--->> direction: desc
+[2024-09-26 21:58:22] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:58:43] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:58:43] logger.php:23--->> option: ALL
+[2024-09-26 21:58:43] logger.php:23--->> word_limit: 5
+[2024-09-26 21:58:43] logger.php:23--->> direction: desc
+[2024-09-26 21:58:43] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:58:48] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:58:48] logger.php:23--->> option: ALL
+[2024-09-26 21:58:48] logger.php:23--->> word_limit: 5
+[2024-09-26 21:58:48] logger.php:23--->> direction: desc
+[2024-09-26 21:58:49] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 21:59:52] endpoint.php:12--->> GET REQUEST
+[2024-09-26 21:59:52] logger.php:23--->> option: ALL
+[2024-09-26 21:59:52] logger.php:23--->> word_limit: 5
+[2024-09-26 21:59:52] logger.php:23--->> direction: desc
+[2024-09-26 21:59:53] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:00:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:00:34] logger.php:23--->> option: ALL
+[2024-09-26 22:00:34] logger.php:23--->> word_limit: 5
+[2024-09-26 22:00:34] logger.php:23--->> direction: desc
+[2024-09-26 22:00:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:00:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:00:50] logger.php:23--->> option: ALL
+[2024-09-26 22:00:50] logger.php:23--->> word_limit: 5
+[2024-09-26 22:00:50] logger.php:23--->> direction: desc
+[2024-09-26 22:00:51] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:01:13] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:01:13] logger.php:23--->> option: ALL
+[2024-09-26 22:01:13] logger.php:23--->> word_limit: 5
+[2024-09-26 22:01:13] logger.php:23--->> direction: desc
+[2024-09-26 22:01:14] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:01:27] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:01:27] logger.php:23--->> option: ALL
+[2024-09-26 22:01:27] logger.php:23--->> word_limit: 5
+[2024-09-26 22:01:27] logger.php:23--->> direction: desc
+[2024-09-26 22:01:28] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:01:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:01:56] logger.php:23--->> option: ALL
+[2024-09-26 22:01:56] logger.php:23--->> word_limit: 5
+[2024-09-26 22:01:56] logger.php:23--->> direction: desc
+[2024-09-26 22:01:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:02:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:02:34] logger.php:23--->> option: ALL
+[2024-09-26 22:02:34] logger.php:23--->> word_limit: 5
+[2024-09-26 22:02:34] logger.php:23--->> direction: desc
+[2024-09-26 22:02:35] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:02:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:02:56] logger.php:23--->> option: ALL
+[2024-09-26 22:02:56] logger.php:23--->> word_limit: 5
+[2024-09-26 22:02:56] logger.php:23--->> direction: desc
+[2024-09-26 22:02:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:03:10] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:03:10] logger.php:23--->> option: ALL
+[2024-09-26 22:03:10] logger.php:23--->> word_limit: 5
+[2024-09-26 22:03:10] logger.php:23--->> direction: desc
+[2024-09-26 22:03:11] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:03:24] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:03:24] logger.php:23--->> option: ALL
+[2024-09-26 22:03:24] logger.php:23--->> word_limit: 5
+[2024-09-26 22:03:24] logger.php:23--->> direction: desc
+[2024-09-26 22:03:25] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:03:34] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:03:34] logger.php:23--->> option: ALL
+[2024-09-26 22:03:34] logger.php:23--->> word_limit: 5
+[2024-09-26 22:03:34] logger.php:23--->> direction: desc
+[2024-09-26 22:03:34] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:03:51] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:03:51] logger.php:23--->> option: ALL
+[2024-09-26 22:03:51] logger.php:23--->> word_limit: 5
+[2024-09-26 22:03:51] logger.php:23--->> direction: desc
+[2024-09-26 22:03:51] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:04:03] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:04:03] logger.php:23--->> option: ALL
+[2024-09-26 22:04:03] logger.php:23--->> word_limit: 5
+[2024-09-26 22:04:03] logger.php:23--->> direction: desc
+[2024-09-26 22:04:04] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:05:25] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:05:25] logger.php:23--->> option: ALL
+[2024-09-26 22:05:25] logger.php:23--->> word_limit: 5
+[2024-09-26 22:05:25] logger.php:23--->> direction: desc
+[2024-09-26 22:05:26] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:05:38] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:05:38] logger.php:23--->> option: ALL
+[2024-09-26 22:05:38] logger.php:23--->> word_limit: 5
+[2024-09-26 22:05:38] logger.php:23--->> direction: desc
+[2024-09-26 22:05:39] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:05:53] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:05:53] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 22:05:53] logger.php:23--->> word_limit: 5
+[2024-09-26 22:05:53] logger.php:23--->> direction: desc
+[2024-09-26 22:05:54] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:06:32] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:06:32] logger.php:23--->> option: ALL
+[2024-09-26 22:06:32] logger.php:23--->> word_limit: 5
+[2024-09-26 22:06:32] logger.php:23--->> direction: desc
+[2024-09-26 22:06:33] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:06:42] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:06:42] logger.php:23--->> option: ALL
+[2024-09-26 22:06:42] logger.php:23--->> word_limit: 5
+[2024-09-26 22:06:42] logger.php:23--->> direction: desc
+[2024-09-26 22:06:43] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:06:57] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:06:57] logger.php:23--->> option: ALL
+[2024-09-26 22:06:57] logger.php:23--->> word_limit: 5
+[2024-09-26 22:06:57] logger.php:23--->> direction: desc
+[2024-09-26 22:06:57] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:07:24] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:07:24] logger.php:23--->> option: ALL
+[2024-09-26 22:07:24] logger.php:23--->> word_limit: 5
+[2024-09-26 22:07:24] logger.php:23--->> direction: desc
+[2024-09-26 22:07:25] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:08:12] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:08:12] logger.php:23--->> option: ALL
+[2024-09-26 22:08:12] logger.php:23--->> word_limit: 5
+[2024-09-26 22:08:12] logger.php:23--->> direction: desc
+[2024-09-26 22:08:12] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:08:22] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:08:22] logger.php:23--->> option: ALL
+[2024-09-26 22:08:22] logger.php:23--->> word_limit: 5
+[2024-09-26 22:08:22] logger.php:23--->> direction: desc
+[2024-09-26 22:08:23] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:08:29] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:08:29] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 22:08:29] logger.php:23--->> word_limit: 5
+[2024-09-26 22:08:29] logger.php:23--->> direction: desc
+[2024-09-26 22:08:30] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:09:04] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:09:04] logger.php:23--->> option: ALL
+[2024-09-26 22:09:04] logger.php:23--->> word_limit: 5
+[2024-09-26 22:09:04] logger.php:23--->> direction: desc
+[2024-09-26 22:09:05] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:09:20] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:09:20] logger.php:23--->> option: ALL
+[2024-09-26 22:09:20] logger.php:23--->> word_limit: 5
+[2024-09-26 22:09:20] logger.php:23--->> direction: desc
+[2024-09-26 22:09:21] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:09:29] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:09:29] logger.php:23--->> option: ALL
+[2024-09-26 22:09:29] logger.php:23--->> word_limit: 5
+[2024-09-26 22:09:29] logger.php:23--->> direction: desc
+[2024-09-26 22:09:29] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:09:52] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:09:52] logger.php:23--->> option: ALL
+[2024-09-26 22:09:52] logger.php:23--->> word_limit: 5
+[2024-09-26 22:09:52] logger.php:23--->> direction: desc
+[2024-09-26 22:09:53] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:10:06] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:10:06] logger.php:23--->> option: ALL
+[2024-09-26 22:10:06] logger.php:23--->> word_limit: 5
+[2024-09-26 22:10:06] logger.php:23--->> direction: desc
+[2024-09-26 22:10:07] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:10:23] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:10:23] logger.php:23--->> option: ALL
+[2024-09-26 22:10:23] logger.php:23--->> word_limit: 5
+[2024-09-26 22:10:23] logger.php:23--->> direction: desc
+[2024-09-26 22:10:23] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:10:43] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:10:43] logger.php:23--->> option: ALL
+[2024-09-26 22:10:43] logger.php:23--->> word_limit: 5
+[2024-09-26 22:10:43] logger.php:23--->> direction: desc
+[2024-09-26 22:10:43] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:10:50] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:10:50] logger.php:23--->> option: ALL
+[2024-09-26 22:10:50] logger.php:23--->> word_limit: 5
+[2024-09-26 22:10:50] logger.php:23--->> direction: desc
+[2024-09-26 22:10:51] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:10:59] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:10:59] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 22:10:59] logger.php:23--->> word_limit: 5
+[2024-09-26 22:10:59] logger.php:23--->> direction: desc
+[2024-09-26 22:11:00] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:11:17] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:11:17] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 22:11:17] logger.php:23--->> word_limit: 5
+[2024-09-26 22:11:17] logger.php:23--->> direction: desc
+[2024-09-26 22:11:18] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:14:13] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:14:13] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 22:14:13] logger.php:23--->> word_limit: 5
+[2024-09-26 22:14:13] logger.php:23--->> direction: desc
+[2024-09-26 22:14:14] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:14:20] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:14:20] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 22:14:20] logger.php:23--->> word_limit: 5
+[2024-09-26 22:14:20] logger.php:23--->> direction: desc
+[2024-09-26 22:14:20] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:14:56] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:14:56] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 22:14:56] logger.php:23--->> word_limit: 5
+[2024-09-26 22:14:56] logger.php:23--->> direction: desc
+[2024-09-26 22:14:56] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:14:59] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:14:59] logger.php:23--->> option: FILTER_COMMENTS
+[2024-09-26 22:14:59] logger.php:23--->> word_limit: 5
+[2024-09-26 22:14:59] logger.php:23--->> direction: desc
+[2024-09-26 22:14:59] crawler.php:17--->> SUCCESS --- Got ycombinator html data
