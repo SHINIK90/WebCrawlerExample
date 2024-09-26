@@ -22,7 +22,7 @@ Make sure you have the following software installed:
    ```
    Or download it here: [PHP Download](https://www.php.net/downloads.php)
 
-##Setup
+## Setup
 
 1. Start the backed php server
    open a command line in the backend folder and start the server like this:
@@ -38,7 +38,8 @@ Make sure you have the following software installed:
    ```
 3. Make sure you have both *locahost:4200 and *localhost:8000 currently running
 
-##Project Structure
+## Project Structure
+```bash
 WebCrawlerExample/
 │
 ├── Backend/        # PHP server code
@@ -56,3 +57,4 @@ WebCrawlerExample/
 │       └── app/app.component.scss  # Styling
 │   └── .../         # Angular structure
 └── README.md        # Project documentation
+```
