@@ -24,30 +24,29 @@ export class AppComponent implements OnInit {
   constructor(private cdr: ChangeDetectorRef, private apiService: ApiService) {this.dataSource = new MatTableDataSource();}
 
   ngOnInit(): void {
-    this.getEntries('ALL');
-    
+    this.getEntries('ALL');                                                               //Start the view with the table populated with all entries
   }
 
-  getEntries(option:string, direction?:string, word_limit?:number){
+  getEntries(option:string, direction?:string, word_limit?:number){                       //General function to request entries array from the apiService given option, direction, and word limit
     this.apiService.getEntries(option, direction?direction:'desc', word_limit? word_limit:5).subscribe({
       next: (response:any) => {
         // console.log('API Response:', response);
-        this.entries = response || [];
-        this.dataSource.data = response;
-        this.cdr.detectChanges();
+        this.entries = response || [];                                                    //save the array to a local variable
+        this.dataSource.data = response;                                                  //populate the table with the entries array
+        this.cdr.detectChanges();                                                         //detect changes and refresh the view
       },
       error: (error:any) => {
         console.error('Error getting entries ', error);
       }
     });
   }
-  filterComments(){
+  filterComments(){                                                                       //function for the comments filter button, using the current direction to sort
     this.getEntries('FILTER_COMMENTS', this.currentDirection);
   }
-  filterPoints(){
+  filterPoints(){                                                                         //function for the points filter button, using the current direction to sort
     this.getEntries('FILTER_POINTS', this.currentDirection);
   }
-  toggleSortDirection(){
+  toggleSortDirection(){                                                                  //function for the sorting direction button
     if(this.currentDirection === 'asc'){
       this.currentDirection = 'desc';
     }else{

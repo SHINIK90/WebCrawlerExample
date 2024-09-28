@@ -938,3 +938,48 @@
 [2024-09-26 22:14:59] logger.php:23--->> word_limit: 5
 [2024-09-26 22:14:59] logger.php:23--->> direction: desc
 [2024-09-26 22:14:59] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:42:33] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:42:33] logger.php:23--->> option: ALL
+[2024-09-26 22:42:33] logger.php:23--->> word_limit: 5
+[2024-09-26 22:42:33] logger.php:23--->> direction: desc
+[2024-09-26 22:42:34] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 22:42:37] endpoint.php:12--->> GET REQUEST
+[2024-09-26 22:42:37] logger.php:23--->> option: FILTER_POINTS
+[2024-09-26 22:42:37] logger.php:23--->> word_limit: 5
+[2024-09-26 22:42:37] logger.php:23--->> direction: desc
+[2024-09-26 22:42:38] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 23:05:33] endpoint.php:12--->> GET REQUEST
+[2024-09-26 23:05:33] logger.php:18--->> option: ALL
+[2024-09-26 23:05:33] logger.php:18--->> word_limit: 5
+[2024-09-26 23:05:33] logger.php:18--->> direction: desc
+[2024-09-26 23:05:34] crawler.php:17--->> SUCCESS --- Got ycombinator html data
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:1 Title:End of an era: Landsat 7 mission takes final images Points:78 Comments:11
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:2 Title:Critical Mass and Tipping Points Points:23 Comments:15
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:3 Title:I have 2000 old VHS tapes in my garage and I don't know what to do with them Points:68 Comments:45
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:4 Title:FCC Unlocks Spectrum to Support Advanced Satellite Services Points:34 Comments:8
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:5 Title:NKRYPT Sculpture Points:198 Comments:8
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:6 Title:Tcl 9.0 Points:218 Comments:97
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:7 Title:A pilot project in universal algebra to explore new ways to collaborate Points:15 Comments:2
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:8 Title:Malicious SHA-1 (2014) Points:18 Comments:1
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:9 Title:OpenAI to become for-profit company Points:1030 Comments:583
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:10 Title:The ambition of Microsoft Flight Simulator 2024 Points:37 Comments:11
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:11 Title:Hacking Kia: Remotely Controlling Cars with Just a License Plate Points:235 Comments:150
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:12 Title:U.S. court orders LibGen to pay $30M to publishers, issues broad injunction Points:213 Comments:209
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:13 Title:WordPress.org bans WP Engine Points:228 Comments:276
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:14 Title:Why the U.S. can't build icebreaking ships Points:117 Comments:129
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:15 Title:Why I've tracked every single piece of clothing I've worn for three years Points:25 Comments:11
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:16 Title:DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says Points:234 Comments:163
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:17 Title:Lesser known tricks, quirks and features of C Points:88 Comments:26
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:18 Title:Attacking UNIX Systems via CUPS Points:200 Comments:146
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:19 Title:Dethrace: Reverse engineering the 1997 game "Carmageddon" (2023) Points:24 Comments:2
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:20 Title:A Brief History of Microprogramming (2022) Points:37 Comments:4
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:21 Title:AWS Nitro Enclaves: Attack Surface Points:112 Comments:12
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:22 Title:The Holotypic Occlupanid Research Group Points:20 Comments:9
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:23 Title:Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI Points:62 Comments:24
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:24 Title:Poka Labs (YC S24) Is Hiring a Founding Engineer Points:0 Comments:0
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:25 Title:From Gatsby gridlock to Astro bliss: my personal site redesign Points:97 Comments:63
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:26 Title:Octopuses seen hunting together with fish, punching those that don't cooperate Points:281 Comments:218
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:27 Title:In the Shack with Robert Caro Points:13 Comments:4
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:28 Title:New standards for a faster and more private Internet Points:112 Comments:43
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:29 Title:Italian Music Through the Lens of Complex Networks Points:95 Comments:17
+[2024-09-26 23:05:34] crawler.php:78--->> Rank:30 Title:Show HN: Cronexpr, a Rust library to parse and iter crontab expression Points:144 Comments:27
